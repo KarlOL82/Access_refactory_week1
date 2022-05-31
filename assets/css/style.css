@@ -83,7 +83,7 @@ p {
     margin-left: 20px;
 }
 
-/*---these css elements were consolidated for optimization and organisation. "content-item" class attribute added for this purpose---*/
+/*---<these css elements were consolidated for optimization and organization. "content-item" class attribute added for this purpose---*/
 .content-item {
     margin-bottom: 20px;
     padding: 50px;
@@ -103,7 +103,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*---these css elements were consolidated for optimization and organisation. "content-item" class attribute added for this purpose---*/
+/*---these css elements were consolidated for optimization and organization. "content-item" class attribute added for this purpose>---*/
 
 
 .benefits {
@@ -117,7 +117,7 @@ p {
     background-color: #2589bd;
 }
 
-/*---these css elements were consolidated for optimization and organisation. "benefit-item" class attribute added for this purpose---*/
+/*---<these css elements were consolidated for optimization and organization. "benefit-item" class attribute added for this purpose---*/
 .benefit-item {
     margin-bottom: 32px;
     color: #ffffff;
@@ -135,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*---these css elements were consolidated for optimization and organisation. "benefit-item" class attribute added for this purpose---*/
+/*---these css elements were consolidated for optimization and organization. "benefit-item" class attribute added for this purpose>---*/
 
 .footer {
     padding: 30px;
