@@ -26,6 +26,8 @@ Refactoring an existing website usinng semantic HTML elements to improve accesse
 
 ```
 
+Link to deployed page here: https://karlol82.github.io/Access_refactory_week1/#search-engine-optimization
+
 ### Takeaways
 -Learned how to use alt attributes for images to provide descriptive content for visually impaired users.
 
